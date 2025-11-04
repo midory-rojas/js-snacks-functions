@@ -21,6 +21,4 @@ function inizialiNomi(array) {
 
 console.log(inizialiNomi(names));
 
-
-
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
