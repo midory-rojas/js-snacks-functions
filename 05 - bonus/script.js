@@ -20,7 +20,7 @@ function saluta (nome) {
     } else if (hours < 17) {
         saluto = "Buon pomeriggio";
     } else {
-        saluto = "Buonsare";
+        saluto = "Buonasera";
     }
     return `${saluto}, ${nome}`;
 }
